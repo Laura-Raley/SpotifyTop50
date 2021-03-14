@@ -1,2 +1,2 @@
 # SpotifyTop50
-Spotify Top 50 Analysis
+Analysis of Spotify's Top 50 songs of 2019 using Python
